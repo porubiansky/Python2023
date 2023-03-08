@@ -20,3 +20,4 @@ print(long_name3)
 # variant 12
 result = (176-9.3/7)/(18.2-179.3)-323.8**2
 print(round(result, 2))
+
